@@ -1,0 +1,1 @@
+cmd_/home/mismayil/dev/linux-dev/tasks/task1/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/mismayil/dev/linux-dev/tasks/task1/hello.ko /home/mismayil/dev/linux-dev/tasks/task1/hello.o /home/mismayil/dev/linux-dev/tasks/task1/hello.mod.o
